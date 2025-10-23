@@ -1,12 +1,27 @@
 <div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<div align="center">
+    <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&hideDecoration=false&animatedDecoration=true&hideNameplate=false" />
+  </a>
+ 	  <a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=300 /> 
+  </a>
+</div>
+
+###
+
+<div align="center">
   <a href="https://open.spotify.com/user/vrzp923oitpudxzpcglk8pa40">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=vrzp923oitpudxzpcglk8pa40&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-
-<div align="left">
+  
+<div align="center">
   <a href="https://discord.com/users/762945704951545867" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
@@ -20,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
@@ -38,15 +53,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AHRI2nd/AHRI2nd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AHRI2nd/AHRI2nd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AHRI2nd/AHRI2nd/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
