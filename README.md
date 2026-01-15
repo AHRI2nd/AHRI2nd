@@ -7,8 +7,6 @@
 <div align="center">
     <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&hideDecoration=false&animatedDecoration=true&hideNameplate=false" />
   </a>
- 	  <a href="http://kyrie25.dev"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyrie25&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true" height=300 /> 
-  </a>
 </div>
 
 ###
