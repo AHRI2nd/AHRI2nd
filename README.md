@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=45&lines=Music+Producer+%F0%9F%8E%B5;Arduino+Tinkerer+%F0%9F%A4%96;3D+Artist+%F0%9F%8E%A8;Just+vibing...+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=45&lines=Music+Producer+%F0%9F%8E%B5;Full-Stack+Developer+%F0%9F%92%BB;Night+Coder+%F0%9F%8C%99;Just+vibing...+%E2%9C%A8" />
   </a>
 </div>
 
@@ -37,14 +37,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahri2nd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&icon_color=b39ddb&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahri2nd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&text_color=c9d1d9" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahri2nd&theme=dracula" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahri2nd&theme=tokyonight&hide_border=true&background=0D1117&ring=B39DDB&fire=FF79C6&currStreakLabel=B39DDB" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahri2nd&theme=dracula" height="180" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahri2nd&theme=dracula" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahri2nd&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=BD93F9&dates=F8F8F2&sideNums=F8F8F2&currStreakNum=F8F8F2" />
 </div>
 
 <br/>
