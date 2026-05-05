@@ -48,14 +48,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahri2nd&theme=dracula" height="180" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ahri2nd&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9&sideLabels=BD93F9&dates=F8F8F2&sideNums=F8F8F2&currStreakNum=F8F8F2" />
-</div>
-
-<br/>
-
 ---
 
 ### 🛠️ Skills & Tools
