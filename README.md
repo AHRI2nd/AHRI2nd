@@ -2,87 +2,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Tsukimori&fontSize=90&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=✦%20Ahri%20✦&descSize=22&descAlign=50&descAlignY=62&color=gradient&customColorList=6,11,20" />
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://discord.com/users/762945704951545867">
-    <img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&hideDecoration=false&animatedDecoration=true&hideNameplate=false" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=45&lines=Music+Producer+%F0%9F%8E%B5;Full-Stack+Developer+%F0%9F%92%BB;Night+Coder+%F0%9F%8C%99;Just+vibing...+%E2%9C%A8" />
   </a>
 </div>
 
-<br/>
-
----
-
-### 🎵 Recently Played
-
 <div align="center">
+  <a href="https://discord.com/users/762945704951545867">
+    <img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&hideDecoration=false&animatedDecoration=true&hideNameplate=false" />
+  </a>
+  &nbsp;
   <a href="https://open.spotify.com/user/vrzp923oitpudxzpcglk8pa40">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vrzp923oitpudxzpcglk8pa40&count=5&unique=false" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vrzp923oitpudxzpcglk8pa40&count=3&unique=false" alt="Spotify recently played" />
   </a>
 </div>
 
-<br/>
-
----
-
-### 📊 GitHub Stats
+<hr />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahri2nd&theme=dracula" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahri2nd&theme=dracula" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahri2nd&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahri2nd&theme=dracula" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahri2nd&layout=compact&theme=midnight-purple&hide_border=true" height="170" />
 </div>
-
----
-
-### 🛠️ Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ableton,cpp,dart,supabase,blender,arduino,discord&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahri2nd&theme=midnight-purple&hide_border=true" />
 </div>
-
-<br/>
-
----
-
-### 🌐 Connect
-
-<div align="center">
-  <a href="https://discord.com/users/762945704951545867" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Tsukimori_Ahri" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:tsukimori@ahri2nd.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahri2nd&style=for-the-badge&color=b39ddb&label=PROFILE+VIEWS" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20" />
