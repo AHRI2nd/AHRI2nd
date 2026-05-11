@@ -21,13 +21,13 @@
 <hr />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahri2nd&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=CBCADC&icon_color=CBCADC" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahri2nd&layout=compact&theme=midnight-purple&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=CBCADC" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahri2nd&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=CBCADC&fire=CBCADC&currStreakLabel=CBCADC" />
 </div>
 
 <div align="center">
