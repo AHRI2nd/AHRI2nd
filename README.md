@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=CBCADC&fire=CBCADC&currStreakLabel=CBCADC" />
+  <img src="https://streak-stats.demolab.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=CBCADC&fire=CBCADC&currStreakLabel=CBCADC" />
 </div>
 
 <div align="center">
