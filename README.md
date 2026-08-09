@@ -4,13 +4,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=45&lines=Music+Producer+%F0%9F%8E%B5;Full-Stack+Developer+%F0%9F%92%BB;Night+Coder+%F0%9F%8C%99;Just+vibing...+%E2%9C%A8" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&multiline=false&repeat=true&width=480&height=45&lines=Music+Producer+%F0%9F%8E%B5;Developer+%F0%9F%92%BB;Night+Coder+%F0%9F%8C%99;Just+vibing...+%E2%9C%A8" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/762945704951545867">
-    <img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&hideDecoration=false&animatedDecoration=true&hideNameplate=false" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="800" />
+</div>
+
+<div align="center">
+  <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showBanner=true&waveColor=B39DDB&waveSpotifyColor=B39DDB&imgStyle=square&animatedDecoration=true&showDisplayName=false&hideNameplate=false&hideClan=true" />
   </a>
   &nbsp;
   <a href="https://open.spotify.com/user/vrzp923oitpudxzpcglk8pa40">
@@ -18,16 +21,18 @@
   </a>
 </div>
 
-<hr />
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=CBCADC&icon_color=CBCADC" height="170" />
-  &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=CBCADC" height="170" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="800" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=CBCADC&fire=CBCADC&currStreakLabel=CBCADC" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=B39DDB&icon_color=CBCADC&text_color=CBCADC&border_radius=12" height="170" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=B39DDB&text_color=CBCADC&border_radius=12" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" />
 </div>
 
 <div align="center">
