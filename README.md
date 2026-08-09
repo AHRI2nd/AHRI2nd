@@ -21,9 +21,9 @@
 <hr />
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=CBCADC&icon_color=CBCADC" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=CBCADC&icon_color=CBCADC" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=CBCADC" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=CBCADC" height="170" />
 </div>
 
 <div align="center">
