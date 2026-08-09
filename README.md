@@ -26,13 +26,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AHRI2nd&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=B39DDB&icon_color=CBCADC&text_color=CBCADC&border_radius=12" height="170" />
+    <img src="https://streak-stats.demolab.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" height="170" />
   &nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AHRI2nd&layout=compact&theme=dark&hide_border=true&title_color=B39DDB&text_color=CBCADC&border_radius=12" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AHRI2nd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&ring=B39DDB&fire=B39DDB&currStreakLabel=B39DDB" />
 </div>
 
 <div align="center">
