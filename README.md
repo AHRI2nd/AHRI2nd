@@ -13,10 +13,12 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showBanner=true&waveColor=B39DDB&waveSpotifyColor=B39DDB&imgStyle=square&animatedDecoration=true&showDisplayName=false&hideNameplate=false&hideClan=true&hideSpotify=true" />
+  <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showBanner=true&waveColor=B39DDB&waveSpotifyColor=B39DDB&imgStyle=square&animatedDecoration=true&showDisplayName=false&hideNameplate=false&hideClan=true" />
   </a>
   &nbsp;
-  <a href="https://discord.ivl.is/"><animated-image data-catalyst="" style="display: block;"><img src="https://discord.ivl.is/widget/music/762945704951545867?theme=aurora&dark=1&horizontal=1&profile=1&nick=%40ahri2nd&npLabel=Now+Playing&offLabel=Offline&statusLabel=Listening+Now&idleMsg=Nothing" width="490px" style="display: inline-block;" data-target="animated-image.originalImage"></animated-image></a>
+  <a href="https://open.spotify.com/user/vrzp923oitpudxzpcglk8pa40">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vrzp923oitpudxzpcglk8pa40&count=3&unique=false" alt="Spotify recently played" />
+  </a>
 </div>
 
 <div align="center">
