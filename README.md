@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showBanner=true&waveColor=B39DDB&waveSpotifyColor=B39DDB&imgStyle=square&animatedDecoration=true&showDisplayName=false&hideNameplate=false&hideClan=true" />
+  <a href="https://discord.com/users/762945704951545867"><img src="https://lanyard.kyrie25.dev/api/762945704951545867?showDisplayName=false&forceGradient=false&animatedDecoration=true&showBanner=true&waveColor=B39DDB&waveSpotifyColor=B39DDB&hideClan=true&imgStyle=square" />
   </a>
   &nbsp;
   <a href="https://open.spotify.com/user/vrzp923oitpudxzpcglk8pa40">
